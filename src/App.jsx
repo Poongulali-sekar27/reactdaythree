@@ -23,7 +23,22 @@ function App() {
         name :"Matte AD Peacock Temple Hipbelt",
         price : "$3300",
         image : "https://adornachennai.com/cdn/shop/files/pragathi_pj_1721807111_3419088325897097224_389399963_360x.jpg?v=1721807968"
+    },{
+        name :"Kemp with Green Stone Set",
+        price : "$11500",
+        image : "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT7eq8HzDj1K5WaZSrCh7lyg5JIOSpIm1YU50nH0i_IKfOb0C9_280wUtKqGRs2NMNSlUA4zObbyA0kHJcOjxvWvoqkZJw9HPqgUyq1dnk&usqp=CAE"
+    },{
+        name :"Matte Lakshmi Bangle Set",
+        price : "$2450",
+        image : "https://adornachennai.com/cdn/shop/products/image_a672c2af-ed65-486c-82ec-a63bf3394e84_740x.jpg?v=1668079180"
+    },{
+        name :"Chik Green Stone Ear Stud",
+        price : "$380",
+        image : "https://adornachennai.com/cdn/shop/files/FA997F01-C0FD-4DA6-802D-07C38435880B_360x.jpg?v=1709992052"
     }
+    
+    
+    
 ]
     let [cart,setCart] = useState(0)
   return <>
@@ -33,8 +48,8 @@ function App() {
             <div className="container px-4 px-lg-5 my-5">
                 <div className="text-center text-white">
 
-                    <h1 className="display-4 fw-bolder">Shop in style</h1>
-                    <p className="lead fw-normal text-white-50 mb-0">With this shop homepage template</p>
+                    <h1 className="display-4 fw-bolder">Treditional & Unique Collection</h1>
+                    <p className="lead fw-normal text-white-50 mb-0">Available All Bride Collection</p>
                 </div>
             </div>
         </header>
